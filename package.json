@@ -1,0 +1,19 @@
+{
+  "name": "as36b-202102-atv03",
+  "version": "1.0.0",
+  "description": "Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgvilela/AS36B-202102-Atv03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgvilela/AS36B-202102-Atv03/issues"
+  },
+  "homepage": "https://github.com/jgvilela/AS36B-202102-Atv03#readme"
+}
